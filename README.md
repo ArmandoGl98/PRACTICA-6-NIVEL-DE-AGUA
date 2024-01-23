@@ -149,4 +149,8 @@ delay (2000);
 }
 
 Se hace la siguiente conexion de componentes:
+![](https://github.com/ArmandoGl98/PRACTICA-6-NIVEL-DE-AGUA/blob/main/Captura%20de%20pantalla%202024-01-22%20210756.png)
 
+Prosigueinte se regula el nivel de agua manualmente para que se apaguen o enciendan los led´s:
+
+![](https://github.com/ArmandoGl98/PRACTICA-6-NIVEL-DE-AGUA/blob/main/Captura%20de%20pantalla%202024-01-22%20210818.png) ![](https://github.com/ArmandoGl98/PRACTICA-6-NIVEL-DE-AGUA/blob/main/Captura%20de%20pantalla%202024-01-22%20210831.png) ![](https://github.com/ArmandoGl98/PRACTICA-6-NIVEL-DE-AGUA/blob/main/Captura%20de%20pantalla%202024-01-22%20210831.png) ![](https://github.com/ArmandoGl98/PRACTICA-6-NIVEL-DE-AGUA/blob/main/Captura%20de%20pantalla%202024-01-22%20210843.png) ![](https://github.com/ArmandoGl98/PRACTICA-6-NIVEL-DE-AGUA/blob/main/Captura%20de%20pantalla%202024-01-22%20210855.png)
